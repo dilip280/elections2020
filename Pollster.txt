@@ -1,0 +1,453 @@
+SurveyUSA	IVR/online/live	787	4.7	89%	-1.1	-0.8	A	D	0.1
+Rasmussen Reports/Pulse Opinion Research	IVR/online	722	5.3	78%	0.2	0.8	C+	R	1.5
+Zogby Interactive/JZ Analytics	Online	473	5.4	77%	0.4	0.9	C+	R	0.6
+Mason-Dixon Polling & Strategy	Live	433	5.1	87%	-0.6	-0.3	B+	R	0.6
+Public Policy Polling	IVR/text	423	5	80%	-0.4	0.1	B	D	0.3
+YouGov	Online	416	4.9	88%	-0.2	0.3	B	D	0.4
+Research 2000	Live*	280	5.5	88%	-0.1	0.3	F	D	1.3
+American Research Group	Live	273	7.4	75%	0.3	0.2	B	R	0.2
+SurveyMonkey	Online	210	7.1	84%	2.3	2.6	D-	D	5
+Quinnipiac University	Live	207	4.6	83%	-0.2	-0.2	B+	D	0.2
+Marist College	Live	183	5.4	84%	-1	-1	A+	R	0.3
+Harris Insights & Analytics	Online	169	5.1	83%	0.9	1	C	R	1.3
+Emerson College	IVR/online/text	165	5.4	80%	-0.7	-0.4	A-	D	0.3
+Strategic Vision LLC	Live*	133	3.8	89%	-0.4	0	F	R	1.5
+TCJ Research	IVR	132	6.4	60%	3	3	F	R	4.4
+Gravis Marketing	IVR/online/live	132	5.3	68%	0.6	0.9	C	D	0.9
+Opinion Savvy/InsiderAdvantage	IVR/online	119	7.2	70%	0.3	0.4	B-	D	1.1
+University of New Hampshire	Live	112	5.9	85%	0.5	0.3	B-	D	2.8
+Monmouth University	Live	108	5.4	81%	-2	-1.6	A+	D	1.3
+CNN/Opinion Research Corp.	Live	103	5.5	72%	-0.2	-0.2	B+	D	0
+Suffolk University	Live	88	5.1	79%	-0.6	-0.6	A	D	0.6
+Gallup	Live	84	4.3	69%	0.6	0.1	B	R	0.4
+ABC News/The Washington Post	Live	73	2.8	72%	-1.7	-1.3	A+	D	0.5
+Mitchell Research & Communications	IVR/live	66	7.3	67%	1.5	1.5	C-	D	0.8
+Ipsos	Online	66	4.6	70%	0.4	0.5	B-	D	0.4
+Change Research	Online	65	6.6	77%	1	1.3	C-	D	1.1
+Public Opinion Strategies	Online/live	64	5.7	70%	-0.4	0	B+	R	1.5
+CBS News/The New York Times	Live	62	4.3	76%	-1	-0.7	A	D	0.4
+Siena College/The New York Times Upshot	Live	59	3.9	69%	-1.5	-1.1	A+	R	0.3
+GQR Research (GQRR)	Online/live	57	4.5	56%	0.1	0.1	B	D	2.1
+We Ask America	IVR/online/live/text	53	6.9	82%	1	1.2	C	R	0.8
+Siena College	Online/live	53	4.9	90%	-0.9	-0.5	A-	R	0.7
+EPIC-MRA	Live	49	5.5	78%	-0.8	-0.2	B+	R	0.2
+Selzer & Co.	Live	48	4.6	79%	-1.8	-1.3	A+	D	0.1
+Trafalgar Group	IVR	48	5.6	75%	0.9	1.3	C-	R	0.9
+RT Strategies	Live	42	5.9	69%	0.9	0.1	B/C	D	1
+Fox News/Beacon Research/Shaw & Co. Research	Live	40	5.6	71%	-0.5	-0.5	A-	D	1.4
+Landmark Communications	IVR/live	39	4.8	82%	-0.8	0	B	D	1.5
+Remington Research Group	IVR/live	39	4.9	69%	1.4	1.3	C-	D	1.2
+University of Cincinnati (Ohio Poll)	Live	39	3.9	94%	-0.9	-0.6	A/B	R	1.3
+Dan Jones & Associates	Online/live	38	6.9	95%	-0.2	0.4	B-	D	1
+Susquehanna Polling & Research Inc.	IVR/online/live	38	5.8	76%	0.7	1	C	D	0.9
+Los Angeles Times	Live	36	4.6	85%	-0.8	-0.6	A/B	R	0.1
+Princeton Survey Research Associates International	Live	35	5.1	63%	0.1	-0.3	A/B	D	0.5
+Georgetown University (Battleground)	Live	35	3.4	57%	-0.3	-0.3	A/B	R	0.6
+Fox News/Opinion Dynamics Corp.	Live*	34	3.9	72%	-0.3	-0.4	A/B	R	0.3
+RKM Research and Communications Inc.	Live	34	5.3	87%	-1.2	-0.3	A-	R	0.1
+Pharos Research Group	Live	33	3.8	92%	-0.4	0.1	F	D	0.8
+Research & Polling Inc.	Live	32	4.5	84%	-1.5	-0.2	B+	R	0.9
+NBC News/The Wall Street Journal	Live	31	4	73%	-0.7	-0.4	A-	D	0.6
+Data for Progress	Online/text	31	8.9	81%	-0.2	0.5	B-	D	0
+Angus Reid Global	Online	30	3.2	93%	-2.6	0	B+	R	1.2
+ccAdvertising	Live	30	7.1	88%	2.8	1.5	C/D	R	2.6
+Muhlenberg College	Live	29	3.4	84%	-2.3	-1	A+	R	0.2
+Grove Insight	Live	29	3	90%	-3	-0.7	A/B	D	0.5
+Tarrance Group	Live	28	6.2	82%	-0.1	0.2	B/C	R	0.9
+IBD/TIPP	Online/live	27	2.2	78%	-1.6	-0.6	A/B	R	0.8
+Lucid	Online	25	4.1	88%	1.6	1.6	D+	D	1.9
+Pew Research Center	Online	25	4.4	50%	1	0.7	B/C	D	0.8
+McLaughlin & Associates	Online/live	25	6.2	70%	2	1.4	C/D	R	0.9
+Field Research Corp. (Field Poll)	Live	25	3.9	100%	-2	-1.1	A/B	R	0.7
+Market Shares Corp.	Live	25	5.8	84%	-0.1	-0.3	A/B	R	1.1
+Garin-Hart-Yang Research Group	Online/live	24	5.5	85%	-0.5	0.4	B/C	D	1.3
+Google Surveys	Online	24	5.3	92%	3	1.6	D+	R	0.1
+Global Strategy Group	Online/live/text	22	6.7	68%	1.6	1.2	B/C	D	1.8
+Columbus Dispatch	Mail	22	5.1	93%	0.6	1.1	B/C	D	1
+KRC/Communications Research	Live*	22	7.1	91%	-0.5	-0.5	A/B	D	0.1
+St. Pete Polls	IVR	22	4.4	52%	0.5	1	C	R	0.4
+Mellman Group	Live/text	22	5.2	80%	0	0.7	B/C	D	1.7
+Swayable	Online	22	12	77%	2.8	2.2	D-		
+MRG Research	IVR/live	22	7.1	82%	1.7	1.3	B/C	R	2.1
+GfK Group	Online	21	3.9	88%	0.1	0.4	B/C	D	0.2
+Research Co.	Online	21	4.1	88%	-1.9	0.3	B-	R	0.5
+Franklin & Marshall College	Online/live	21	6.4	86%	0.8	0.3	B/C	D	0.4
+Elway Research	Live/text	21	3.9	90%	-2.6	-0.2	A/B	D	0.8
+SoonerPoll.com	Online/live	20	8.9	80%	1.5	0.6	B/C	D	1.9
+Fairleigh Dickinson University (PublicMind)	Live	19	3.9	95%	-1.4	-0.7	A/B	D	0
+University of Massachusetts Lowell	Online	19	7.2	74%	-0.6	-0.1	A/B	R	0.2
+PSB Research	Online	19	7.8	63%	0.9	1.3	B/C	D	2.3
+New England College	IVR	19	4.2	74%	-0.4	0.7	B/C	R	1.2
+Blum & Weprin Associates	Live	19	4.8	95%	-2.1	-0.1	A/B	R	0.7
+Vox Populi Polling	IVR/online	19	4.2	74%	-0.9	0.5	B/C	D	0.3
+Critical Insights	Online/live	19	8.6	89%	2.2	1.4	C/D	R	0.1
+Loras College	Live	18	8.1	72%	0.9	0.9	B/C	D	1.5
+MassINC Polling Group	Online/live	18	4.9	83%	-1.6	-0.7	A/B	R	0.7
+SSRS	Live	18	5.6	50%	1.3	0.2	B/C	D	1.2
+Magellan Strategies	Online/live	18	6.5	94%	0	0.6	B/C	R	0.5
+Pan Atlantic Research	Online	17	6.8	91%	-1	0.7	B/C	D	0.8
+Fleming & Associates	Live	17	5	100%	-1.7	-0.1	A/B	R	0.4
+Franklin Pierce University	Live	17	6.7	85%	1.1	0.6	B/C	D	0.7
+WPA Intelligence (WPAi)	IVR/online/live	17	7.5	68%	1.3	1.2	B/C	R	0.7
+Roanoke College	Live	16	8.6	78%	4	1.1	B/C	D	0.5
+Public Policy Institute of California	Live	16	5.2	100%	0	-0.3	A/B	R	1
+Optimus	Online/live/text	16	8	81%	2.7	1	B/C	R	1.4
+Ciruli Associates	Live	16	3.5	94%	-2.5	-0.8	A/B	R	0.4
+Clout Research/Wenzel Strategies	Live	15	6.7	53%	2	1	B/C	R	1.8
+Ward Research (Honolulu Star-Advertiser)	Live	15	5.9	80%	-1.5	0	B/C	R	0.4
+Financial Dynamics	Live*	15	2.6	100%	-1.3	0.2	B/C	R	0.4
+ALG Research	Online/live	15	6.5	60%	1.3	1.1	B/C	D	1.5
+DHM Research	Online/live	14	4.4	86%	-0.9	0.6	B/C	R	0.1
+Hendrix College	IVR/live/text	14	6.5	93%	-0.5	0.6	B/C	D	1.5
+Rutgers University	Live	14	5.7	86%	1.8	0.1	B/C	R	0
+Maine People's Resource Center	IVR/online	14	6.4	93%	0.1	1	B/C	D	0.1
+Opinion Research Associates	Live	14	9.3	61%	5	1.6	C/D	D	2
+Star Tribune	Live	14	5.9	50%	1.8	0.7	B/C	D	0.9
+Cygnal	IVR/online/live/text	13	3	92%	-3	-0.1	A/B	D	1
+Capital Survey Research Center	Landline	13	9.7	35%	0.1	1.1	B/C	D	0
+Overtime Politics	Live	12	9.8	67%	0.4	0.4	F		
+Brown University	Live	12	11.4	83%	4.7	1.6	C/D	R	0.3
+Marquette University Law School	Live	12	2.8	79%	-2.8	-1	A/B	D	0.2
+Clarity Campaign Labs	IVR/live	12	3.5	54%	-0.7	0.5	B/C	D	1.1
+St. Norbert College	Live	12	3.9	88%	-2.4	-0.2	A/B	D	0.2
+Humphrey Institute	Landline	12	17.9	33%	9.2	3	C/D	D	0.6
+The Tyson Group	Online/live	12	4.7	96%	0	0.8	B/C	R	0
+University of New Orleans	IVR/live	12	5.6	83%	0.7	0.8	B/C	D	0.3
+National Journal	Live	12	2.6	100%	-3.2	-0.8	A/B	R	0.1
+Morning Consult	Online	12	3	75%	0.2	1	B/C	D	0.2
+SEA Polling & Strategic Design	Live	12	3	83%	-0.6	0.3	B/C	D	0.6
+University of Massachusetts Amherst	Live*	11	6.4	100%	-1	0.3	B/C	R	0.2
+Market Research Insight	Live	11	4.8	100%	0.9	0.6	B/C	D	1.2
+Harper Polling	IVR/live	11	3.6	91%	-1.9	0.1	B/C	D	0.1
+Dixie Strategies	IVR/live	11	6.9	95%	1.5	1.1	B/C	R	1.2
+Richard Day Research Inc.	Live*	11	5.5	100%	-0.3	0.3	B/C	R	0.4
+JMC Analytics	IVR/live/text	11	5.6	86%	-0.1	0.9	B/C	R	1
+Market Research Institute Inc.	Live*	11	4.2	100%	-1.6	0.2	B/C	D	0.1
+OnMessage Inc.	Live	11	6.4	82%	0.7	0.5	B/C	R	1.4
+Marketing Resource Group (MRG)	Live	10	9.9	30%	1.7	1	B/C	D	0.3
+Normington, Petts & Associates	Online/live	10	6.4	60%	0.7	0.9	B/C	D	0.5
+Glengariff Group	IVR/live/text	10	5.6	80%	0.7	1	B/C	D	0.3
+Lake Research Partners	IVR/online/live	10	3.9	80%	-2.2	0.3	B/C	D	0.6
+Harstad Strategic Research Inc.	Live	10	3.8	75%	-1.6	0	B/C	D	0.6
+Big Ten	Live*	10	4.7	100%	1	0.5	B/C	D	0.8
+Western New England University	Live	10	4.3	100%	-2.5	-0.6	A/B	R	0.3
+National Research Inc.	Live	10	5.1	75%	-1.7	-0.1	A/B	R	0.5
+Abt Associates	Live	10	3.8	90%	-0.3	-0.3	A/B	D	0.8
+DFM Research	Live	10	6.4	75%	0.1	0.5	B/C	D	1.5
+Christopher Newport University	Live	10	5.9	100%	-0.4	0.2	B/C	D	0.7
+Stockton University	Live	10	4	100%	-1.4	-0.8	A/B	D	0.7
+University of Washington	Live	9	3.6	100%	-1.6	0.2	B/C	D	0.1
+Moore Information	Live	9	6.5	67%	-0.2	0.4	B/C	R	0.7
+Louisville Courier-Journal	Live*	9	3.7	78%	-1.2	0.3	B/C	R	0.2
+Nielson Brothers Polling	IVR	9	12.2	89%	8	3	C/D	D	2.9
+Hamilton Campaigns	Live	9	6.9	61%	1.8	0.7	B/C	D	1
+Benenson Strategy Group	Online/live	9	5.8	61%	0	0.7	B/C	D	0.7
+RRH Elections	IVR/online/live	9	4.2	83%	-1	0.7	B/C	D	0.5
+St. Cloud State University	Live	9	6.4	67%	2.1	0.7	B/C	D	0.3
+Gonzales Research & Marketing Strategies Inc.	Live	9	6.4	78%	1.1	0.6	B/C	R	0.3
+Alaska Survey Research	Live	9	7.1	56%	0.8	0.5	B/C	D	1.8
+University of North Florida	Online/live	9	4	44%	-0.4	-0.1	A/B	D	0.7
+Talmey-Drake Research & Strategy Inc.	Live	9	7.7	50%	1.1	0.5	B/C	R	0.2
+Data Orbital	Live	9	2.3	94%	-2.4	-0.9	A/B	D	0.3
+University of South Alabama	Live	9	3.3	100%	-2	0.1	B/C	R	0.4
+Insights West	Online	9	2.4	94%	-3.7	0.5	B/C	R	0.1
+North Star Opinion Research/Ayres, McHenry & Associates	Live	8	5.5	94%	-3.5	0	A/B	R	0.6
+Datamar	IVR	8	6.3	69%	1.2	1.3	C/D	R	0.3
+American Viewpoint	Live	8	4.2	69%	-1.6	0	B/C	R	0.8
+Southeastern Louisiana University	Live*	8	6.3	88%	2.2	0.7	B/C	D	0.1
+Behavior Research Center (Rocky Mountain Poll)	Live	8	3.1	75%	-2.7	-0.7	A/B	D	0.1
+Arizona State University	Online/live	8	8.2	100%	2.4	1.2	B/C	D	0.6
+Florida Atlantic University	IVR/online	8	3.4	75%	-2	0.5	B/C	D	0.4
+Elon University	Online/live	8	3.2	56%	-1	-0.1	A/B	D	0.5
+Greenberg Quinlan Rosner/American Viewpoint	Live	8	4.4	100%	-0.8	0.2	B/C	R	0.7
+AtlasIntel	Online	8	8.8	81%	-0.1	0.9	B/C		
+Constituent Dynamics	IVR	8	8.5	88%	0.8	1.3	B/C	R	0
+Potomac Incorporated	Live*	8	4.6	88%	-1.4	0.3	B/C	R	0.3
+Clemson University	Online/live	7	8.7	100%	-3.5	0.3	B/C	R	0.2
+Southern Media & Opinion Research	Live	7	5.6	100%	-0.2	0.3	B/C	R	0.1
+Wiese Research Associates Inc.	Live	7	7.3	100%	-0.3	0.3	B/C	D	0.9
+West Chester University	Live*	7	5.2	100%	0	0.5	B/C	D	0.1
+Ed Renwick/Loyola University New Orleans	Live*	7	8.1	86%	4.1	0.9	B/C	D	0.6
+Targoz Market Research	Online	7	7.3	93%	2.3	1.7	C/D	D	1.6
+Yankelovich Partners Inc.	Live*	7	8.1	50%	0.2	-0.4	A/B	R	0
+Montana State University Billings	Live	7	3.6	57%	-4.1	0.2	B/C	D	0.3
+The Polling Company Inc.	IVR/online/live	7	6.2	71%	1.4	1.1	B/C	R	1.1
+Howey Politics/DePauw University	Live	7	6.7	57%	1.3	0.6	B/C	D	0.1
+University of Wisconsin (Badger Poll)	Live*	7	12.2	86%	3.6	0.1	B/C	D	0.4
+University of Connecticut	Live	7	4	93%	-1.4	-0.6	A/B	R	0.3
+Riley Research Associates	Online/live	7	2.7	100%	-2.3	0.6	B/C	R	0.1
+Marketing Workshop	Live*	7	9.7	57%	3.5	0.9	B/C	D	0.1
+FM3 Research	Online/live	7	5.9	79%	0.5	0.9	B/C	D	0.5
+Hays Research Group	Live	7	7.8	71%	2.2	0.7	B/C	D	0.7
+CVOTER	Online	6	1.9	100%	-1.8	0.8	B/C	R	0.2
+Braun Research	Live	6	6.6	100%	0.4	0.5	B/C	D	1.2
+Point Blank Political	Online/text	6	10.7	83%	3.4	1.9	C/D		
+Baydoun Consulting	IVR	6	6.8	83%	3.9	1.8	C/D	R	1
+University of Arkansas	Live	6	4.1	100%	-2.6	0	B/C	D	0.7
+Valley Research	Live*	6	4.3	83%	-1.1	0.3	B/C	D	0.2
+Fort Hays State University	Live	6	22.1	67%	9.5	2.3	C/D	R	1.4
+Public Strategies Inc.	Live*	6	8	100%	0.7	0.5	B/C		
+USC Dornsife/Los Angeles Times	Online	6	5.3	67%	3.7	1.1	B/C	D	0.3
+OpinionWorks	Live	6	7.3	92%	1.5	0.6	B/C	R	0.5
+20/20 Insight	IVR/live	6	12.1	50%	0.8	0.9	B/C	D	0.2
+GBAO	Online/live	6	3.7	75%	-2	0.3	B/C	D	0
+Target Insyght	IVR/live	6	10.4	75%	3.8	1.6	C/D	R	0.6
+Ethridge & Associates LLC	Live*	6	2.7	83%	-3	0.3	B/C	R	0.1
+Dittman Research	Live	6	5.4	100%	-0.8	0.3	B/C	D	0.5
+OH Predictive Insights	IVR/online/live	6	7.2	67%	1.2	1.1	B/C	R	0.9
+Saint Leo University	Online	6	8.5	33%	6.9	2.5	C/D	D	1.8
+Voter/Consumer Research	Live	6	5.2	100%	-1.1	0.4	B/C	R	0
+Temple University	Live*	6	3.7	100%	-1.4	-0.6	A/B	R	0.2
+Cherry Communications	Live	5	7.6	50%	1.6	0.6	B/C	R	0.5
+Carroll Strategies	IVR	5	9.9	80%	3.6	2	C/D	R	1.9
+Middle Tennessee State University	Live	5	9.3	100%	2.1	-0.1	A/B	D	0.6
+Millersville University	Live*	5	14.1	80%	6.9	0.8	B/C	R	0.6
+Rhode Island College	Live*	5	6.1	100%	-0.1	0.5	B/C	R	0.1
+Virginia Commonwealth University	Live	5	4.9	100%	0.5	0.5	B/C	R	0.2
+Greg Smith and Associates	Live*	5	8.5	60%	2.7	0.7	B/C	D	0.8
+Scripps Howard	Live*	5	4.8	100%	-0.6	0.4	B/C	R	0.1
+Hellenthal & Associates	Live	5	8.3	40%	2.4	0.7	B/C	D	0.4
+Florida Poll	Live	5	4.6	60%	1.2	0.6	B/C	D	0.3
+JMC Analytics/Bold Blue Campaigns	Live	5	6.7	80%	0.9	0.5	B/C	R	1.1
+Keating Research	Live	5	2.4	80%	-2.1	0.1	B/C	D	0.1
+Cole Hargrave Snodgrass & Associates	Live/text	5	8.1	60%	1	1	B/C	D	0.1
+Hill Research Consultants	Live	5	5.3	60%	-0.3	0.5	B/C	R	0.3
+Western Kentucky University	Live	5	11.1	80%	3.3	1	B/C	D	1.2
+Strategic Research Associates	Live	5	5	80%	1.1	0.6	B/C	D	0.4
+Probolsky Research	Online/live/text	4	6.4	50%	1	0.9	B/C	R	0.8
+Consumer Logic	Live*	4	8.8	50%	4.4	0.7	B/C	D	0.3
+Alabama State University	Landline	4	6.4	50%	-3.1	1	B/C		
+Wirthlin Worldwide	Live*	4	4.5	75%	-1.6	-0.5	A/B	R	0.2
+IVR Polls	IVR	4	4.2	100%	-2	1.1	B/C		
+OnPoint	IVR	4	1.7	100%	-2.4	1.1	B/C	D	0.1
+McCulloch Research & Polling	Live*	4	7	75%	2.6	0.6	B/C	R	0.4
+Hampton University	Online/live	4	7.5	50%	4.6	1.4	C/D	R	0.8
+Y2 Analytics	Online/live	4	9.7	100%	-1.5	0.6	B/C	D	0.4
+Elucd	Online	4	12.9	50%	3.2	1.7	C/D		
+Purple Strategies	Online	4	3	88%	-1.3	1.2	B/C	R	0.3
+Strategies 360	Online/live	4	2	63%	-3.1	0.6	B/C	R	0.1
+Northern Arizona University	Live*	4	3.6	100%	-3.2	0.3	B/C	R	0.2
+RAND (American Life Panel)	Online	4	2.7	100%	1.5	1.4	C/D	D	0.2
+CallFire	Live	4	3.9	75%	0.3	0.5	B/C	R	0.4
+Minnesota State University Moorhead	Live*	4	8.3	100%	1.6	0.5	B/C	D	0.4
+Market Decisions	Live	4	4.7	100%	-2	0.3	B/C	R	0.1
+University of Wisconsin-Milwaukee	Live*	4	4.4	100%	-1.6	0.3	B/C	R	0.2
+Marshall Marketing & Communications	Live*	4	3.4	100%	-1.9	0.3	B/C	R	0.2
+Polling Company/Global Strategy Group (Hotline Bullseye)	Live*	4	4.3	25%	1.1	0.5	B/C	R	0.2
+CJ&N	Live*	4	3.5	100%	-3.3	0.2	B/C	D	0.1
+Orion Strategies	Live	4	3.2	100%	-3.9	0.2	B/C	D	0.1
+Market Solutions Group	Live*	4	4.4	100%	-1.4	0.4	B/C	R	0
+Richmond Times-Dispatch	Live	4	3.3	100%	-1.3	0.4	B/C	D	0.2
+Frank N. Magid Associates Inc.	Live*	4	4.7	100%	-1.7	0.4	B/C	D	0.3
+Global Strategy Group/National Research (Philadelphia Inquirer)	Live	4	3	100%	-1.7	0.4	B/C	R	0.3
+Big Data Poll	IVR/online	4	3	25%	1.1	1.3	F	R	0.4
+Jim Meader (KELOLAND-TV)	Live*	4	4.6	100%	-0.4	0.4	B/C	D	0.3
+Kimball Political Consulting	Live	4	8.1	75%	4.3	0.9	B/C	R	0.9
+Brigham Young University	Online	4	16.5	75%	8.1	2.2	C/D	D	2.1
+Spry Strategies	IVR/online/live	4	10.8	75%	-1.4	0.6	B/C	R	0.3
+Civiqs	Online	3	4.9	100%	-1.4	1	B/C		
+ROI Rocket	Online	3	2.6	100%	-3.6	0.9	B/C		
+Fabrizio, Lee & Associates	Live	3	5.7	33%	-0.3	0.4	B/C	D	0.2
+Missouri State University	Live	3	4.4	67%	-3.1	0.3	B/C	D	0.3
+Clarus Research Group	Live	3	6.8	100%	0.8	0.5	B/C	D	0.3
+Castleton University	Live	3	9.9	100%	-1	-0.5	A/B		
+Manhattanville College	Live*	3	6.5	100%	-0.9	0.4	B/C	R	0.2
+Lycoming College	Live*	3	7.3	67%	1.6	0.6	B/C	D	0.5
+Zimmerman & Associates/Marketing Intelligence	Live*	3	4.7	100%	0	0.5	B/C	D	0.2
+Indiana University-Purdue University Fort Wayne	Live	3	23.4	0%	9.3	1.4	C/D		
+Tulchin Research	Online/live	3	3.8	67%	-2.5	0.6	B/C	R	0.1
+University of California, Berkeley	Online	3	8	100%	1.2	1.3	C/D	R	0.3
+Winston Group	Live*	3	4.2	67%	-1.5	0.4	B/C	D	0.2
+Research America Inc.	Online/live	3	14.4	100%	2.7	1.1	B/C	D	0.1
+TargetSmart/William & Mary	Online/live	3	5.3	67%	1.8	1	B/C	D	0.6
+Dartmouth College	Live	3	9.3	100%	0	0.4	B/C		
+Momentum Analysis	Live	3	13.7	33%	7.2	0.9	B/C	D	0.4
+Knowledge Networks	Online	3	4.2	100%	-0.9	0.4	B/C	D	0.2
+Midwest Survey and Research	Live*	3	7.3	100%	-1	0.4	B/C	R	0
+McKeon & Associates	Live	3	2.9	67%	-4.1	0.2	B/C	D	0.2
+East Carolina University	IVR/online	3	19.1	100%	2.1	0.7	B/C		
+Praecones Analytica	IVR/online	3	1.8	33%	-5.6	1	B/C	R	0.2
+Zia Poll	IVR	3	4.9	100%	5.3	1.8	C/D	R	0.5
+Iowa State University	Live	3	6.2	67%	-3.7	0.2	B/C		
+MSR Group	Live*	3	3.5	100%	-3.9	0.3	B/C	D	0.2
+Decision Forecasting	Live*	3	8.1	100%	1.6	0.5	B/C	R	0.1
+Illinois Wesleyan University	Live*	3	8.2	100%	1.5	0.5	B/C	R	0.3
+PSI	Live*	3	11.7	67%	1.3	0.5	B/C	R	0
+NPR	Live	3	4.9	17%	0.7	0.5	B/C	D	0.1
+Becker Institute	Live*	3	6.9	67%	-0.2	0.4	B/C	D	0.3
+University of Iowa	Live	3	17.3	67%	4.4	0.7	B/C	R	0.3
+Personal Marketing Research	Live*	3	5.4	67%	-2.6	0.3	B/C		
+University of Texas at Tyler	Online/live	3	7.6	67%	1.1	0.9	B/C	R	0.3
+High Point University	Online/live	3	11.5	67%	3.1	0.3	B/C	D	0
+BK Strategies	IVR/live	3	3.8	67%	-1	0.7	B/C	D	0.4
+Kiley & Company	Live	3	6.6	100%	0.9	0.5	B/C	D	0.5
+Ogden & Fry	IVR	3	2.5	100%	-4.4	1	B/C	R	0
+Dane & Associates	IVR	2	21.2	50%	15.2	2	C/D	R	0.9
+TP Research	IVR	2	15.6	0%	7.9	2	C/D	R	1.4
+Glascock Group	IVR	2	15.5	50%	9.6	1.9	C/D	D	0.2
+CPEC	IVR	2	15.8	100%	6.9	1.8	C/D		
+Saguaro Strategies	Online	2	5	0%	4.9	1.7	C/D	D	0.4
+OurProgress (The Progress Campaign)	Online/text	2	14.6	100%	3.2	1.7	F		
+BWD Global	IVR	2	13.5	100%	5.3	1.6	C/D	R	0.1
+University of Colorado	Online	2	6.7	100%	5	1.6	C/D	D	0.5
+Baldwin Wallace University	Online	2	8.3	50%	4.1	1.6	C/D	D	0.7
+GaPundit.com	IVR	2	8.3	25%	4	1.5	C/D	D	0.6
+Zata3	IVR	2	10.5	100%	3.3	1.4	C/D	R	0.2
+ResearchNow	Online	2	9.4	100%	0.4	1.4	C/D		
+MarblePort	IVR	2	5.6	100%	2	1.4	C/D	R	0.4
+CrossTarget	IVR	2	7.7	100%	1.5	1.3	C/D	R	0.4
+TargetPoint	IVR/live	2	18.3	100%	5.9	1.3	B/C		
+Pacific Market Research	Online	2	7.5	100%	0	1.2	B/C	R	0.7
+Forward Strategies	IVR	2	1.3	100%	-2.9	1.2	B/C	D	0.1
+RABA Research	IVR/online/live	2	5.3	100%	2.1	1.2	B/C	D	0.3
+Edgewater Research/My People Vote	IVR	2	1.7	100%	-1.7	1.2	B/C	R	0.1
+M4 Strategies	Online	2	3.1	100%	-4.4	1.1	B/C	R	0.2
+Master Image	IVR	2	1.2	100%	-4.1	1.1	B/C		
+Strategic National	IVR	2	0.7	25%	-7.2	1.1	B/C	D	0.1
+SocialSphere	Online/live	2	6.1	100%	2.2	1	B/C	R	0.4
+Multi-Quest International	IVR/live	2	5	0%	-0.1	1	B/C	D	0
+University of Georgia	Online/live	2	5.7	50%	-0.7	0.8	B/C	R	0.3
+IMGE Insights	IVR/live	2	6.4	100%	0.2	0.8	B/C	R	0.5
+KG Polling	Online/live	2	2.2	100%	-1.6	0.8	F	D	0.2
+Massie & Associates	Live*	2	24	0%	15.4	0.8	B/C	R	0.5
+Starboard Communications	IVR/live/text	2	1.7	100%	-8.5	0.8	B/C	D	0.1
+East Tennessee State University	Live	2	9.9	75%	3.8	0.7	B/C	D	0.9
+Ohio University	Live*	2	8.8	50%	6.3	0.7	B/C	D	0.3
+Douglas Fulmer & Associates	IVR/live	2	5	100%	-2.8	0.7	B/C		
+David Binder Research	Online/live/text	2	5.4	0%	-1.4	0.7	B/C		
+WCIA-TV	Live*	2	18.3	100%	10	0.7	B/C	R	0.4
+Schapiro Group	Live*	2	21.5	50%	4.5	0.7	B/C		
+Latino Decisions	Online/live/text	2	4.7	100%	-2.7	0.6	B/C		
+University of Alabama at Birmingham	Live*	2	12	100%	6.7	0.6	B/C	R	0.4
+Data West Polling	Live*	2	13.1	50%	6.1	0.6	B/C	D	0.4
+Baselice & Associates	Live	2	10	100%	4.4	0.6	B/C	D	0.3
+Hoffman Research Group	Live	2	5.2	100%	-0.2	0.6	B/C	R	0.4
+Opinion Consultants	Live*	2	6.6	100%	1.6	0.6	B/C	R	0.3
+Bannon Communications	Live*	2	10.4	100%	4	0.6	B/C	D	0.3
+Forman Center	Live*	2	11	100%	5.1	0.6	B/C	D	0.2
+Abacus Associates	Live*	2	8.1	50%	2.5	0.5	B/C	D	0.2
+HighGround Inc.	Live	2	4.4	50%	-0.7	0.5	B/C	R	0.4
+Southern Opinion Research	Live*	2	8.5	100%	2.8	0.5	B/C	D	0
+TMR Research	Live*	2	7.9	0%	2.7	0.5	B/C	D	0.2
+SMS Research & Marketing Services Inc.	Live*	2	5.9	50%	0.3	0.5	B/C	R	0.2
+Rice University	Live*	2	5.9	100%	0.2	0.5	B/C	D	0.2
+Independent Market Research	Live*	2	5.8	100%	1.5	0.5	B/C	D	0.1
+West Virginia Research Center	Live*	2	6.4	50%	0.6	0.5	B/C	D	0.2
+Feldman Group	Live	2	6.7	50%	-0.4	0.4	B/C	D	0.2
+Belden Russonello	Live	2	4.7	100%	0.4	0.4	B/C	D	0.1
+University of Denver	Live	2	3.4	100%	-0.1	0.4	B/C	R	0.1
+Associated Industries of Florida	Live	2	3.4	50%	0.3	0.4	B/C	D	0.3
+Bendixen & Amandi International	Live	2	3	100%	0.3	0.4	B/C	D	0.1
+Basswood Research	Live	2	10.7	100%	0.2	0.4	B/C	R	0.2
+Blumenthal Research Daily	Live	2	2.5	100%	-1.7	0.4	F	R	0.2
+Neighborhood Research and Media	Live	2	6.8	50%	-0.2	0.4	B/C	R	0.1
+Baruch College	Live	2	5.7	100%	-0.3	0.4	B/C		
+Lincoln Institute	Live*	2	4.1	75%	-2.5	0.4	B/C	R	0.1
+RMS Research	Live*	2	2.3	100%	-3.7	0.4	B/C	R	0.1
+Strategic Services	Live*	2	4.2	50%	-1.7	0.4	B/C	D	0.1
+University of Tennessee	Live*	2	2.7	100%	-5.7	0.4	B/C	R	0.1
+Merrill Poll	Live	2	8.7	100%	-0.7	0.4	B/C		
+Public Opinion Strategies/Hamilton Campaigns (Texas Credit Union League)	Live*	2	6.9	100%	-2.3	0.3	B/C		
+RBI Strategies & Research	Live	2	0.7	100%	-6.9	0.3	B/C	R	0
+Frederick Polls	Live	2	2.4	75%	-5.7	0.3	B/C	R	0
+APC Research	Live	2	2.5	100%	-3.4	0.3	B/C	D	0.2
+Victory Research	Live	2	2	100%	-4.6	0.2	B/C	D	0
+Winthrop University	Live	2	12	100%	0.6	-0.3	A/B	D	0
+Gordon S. Black Corp.	Live*	2	6.4	100%	0.5	-0.4	A/B	R	0.1
+Louis Harris & Associates	Live*	2	0.9	100%	-5.2	-0.5	A/B	D	0
+Indiana University	Live	2	0.9	100%	-4.7	-0.5	A/B	D	0
+Michigan State University	Live	2	1	100%	-7.7	-0.6	A/B	R	0
+Jayhawk Consulting	Landline	2	37.6	50%	26.9	3.4	C/D	D	3
+Odney	Live	1	2.1	100%	-4.8	0.4	B/C	D	0.1
+QEV Analytics	Live	1	2	100%	-6.3	0.4	B/C		
+Florida International University/Univision	Live	1	1.8	100%	-6.1	0.4	B/C	D	0
+Centre College	Live	1	3.9	100%	-1.1	0.4	B/C	D	0.2
+New Mexico State University	Live*	1	7.1	0%	-1.7	0.4	B/C		
+Aspen Media & Market Research	Live*	1	3.5	100%	-2.6	0.4	B/C	R	0.1
+Canisius College	Live*	1	0.1	100%	-5.7	0.4	B/C		
+Central Surveys Inc.	Live*	1	1.7	0%	-3.5	0.4	B/C	D	0
+Cooper & Secrest	Live*	1	2.6	0%	-3.3	0.4	B/C	R	0
+Red Sea Communications	Live*	1	4.4	100%	-3	0.4	B/C	R	0.1
+Thirty-Ninth Street Strategies	Live	1	2	0%	-2.8	0.4	B/C	R	0.1
+Dynamic Marketing Inc.	Live*	1	3	100%	-4.6	0.4	B/C	D	0
+Vox Populi Communications	Live*	1	3.5	100%	-3	0.4	B/C		
+Diversified Research Inc	Live*	1	5	100%	-2.2	0.4	B/C	R	0.1
+Lauer Lalley Victoria Inc.	Live*	1	1.7	100%	-4.1	0.4	B/C	R	0
+Ohio State University	Live*	1	3.7	100%	-1.5	0.4	B/C	R	0
+Morningside College	Live	1	6.4	0%	-1.3	0.4	B/C		
+Market Trends Pacific	Live*	1	4.5	50%	-0.6	0.4	B/C	D	0.1
+Wick Communications	Live*	1	2.8	100%	-1.4	0.4	B/C	D	0.1
+NRECA Market Research	Live*	1	6.3	100%	-0.6	0.4	B/C	D	0.1
+University of North Carolina	Live*	1	1.6	100%	-3.2	0.4	B/C	D	0
+Analytical Group	Live*	1	4	100%	-0.8	0.4	B/C	D	0.1
+ASA Marketing Group	Live*	1	5.5	100%	0.1	0.4	B/C	D	0.1
+Meeting Street Research	Live	1	2.6	100%	-0.9	0.5	B/C	D	0.1
+University of Nevada Las Vegas	Live	1	8.9	100%	0.5	0.5	B/C		
+Cromer Group	Live*	1	3.9	100%	0.6	0.5	B/C	R	0.1
+University of Maryland	Landline	1	6.6	0%	2.2	0.5	B/C	D	0.1
+Val Smith	Live	1	8.5	100%	1.9	0.5	B/C	R	0.2
+Old Dominion University	Live	1	4.5	100%	-1	0.5	B/C	D	0.1
+Jeffrey Stonecash	Live*	1	8.4	100%	2.8	0.5	B/C	R	0.2
+A&A Research	Live*	1	10	0%	3.6	0.5	B/C	R	0.1
+California State University, Bakersfield	Live*	1	9.9	0%	4.4	0.5	B/C	R	0.1
+Public Religion Research Institute	Online/live	1	0.4	100%	-2.9	-0.1	A/B	D	0
+Tulsa Surveys	Live*	1	11.9	100%	5.8	0.5	B/C	R	0.1
+Marketing Research Institute	Live*	1	7.4	0%	4.6	0.5	B/C	R	0.1
+Arthur J. Finkelstein & Associates	Live*	1	13.7	0%	5.8	0.5	B/C	R	0.2
+Ron Lester and Associates	Live*	1	18.9	100%	2.9	0.5	B/C		
+MarketAide Services Inc.	Live*	1	11.2	100%	6.6	0.5	B/C	D	0.2
+Glover Park Group	Live	1	11.4	0%	4.4	0.6	B/C	R	0.3
+Anderson Group	Live*	1	10.9	0%	8.2	0.6	B/C	R	0.2
+Lauer Johnson Research	Live	1	13.8	0%	7.3	0.6	B/C	D	0.3
+Neighbor	Live*	1	17.1	100%	12.9	0.6	B/C	R	0.2
+Concord Public Opinion Partners	Live	1	13.4	100%	3.3	0.6	B/C		
+Rainmaker Media Group	Live*	1	12.1	100%	10.3	0.7	B/C	D	0.3
+Hickman Analytics	Live	1	9.1	0%	6.1	0.7	B/C	D	0.4
+Keating Research/OnSight Public Affairs/Melanson	Online/live	1	2.6	100%	-3.9	0.8	B/C	R	0.1
+1892 Polling	IVR/live	1	0.6	100%	-2.3	0.8	B/C	R	0
+DCCC Targeting and Analytics Department	IVR/live	1	4.5	100%	-2	0.8	B/C	D	0.2
+Great Lakes Strategies Group	IVR	1	7.5	0%	3	1.4	C/D	R	0.2
+R.L. Repass & Partners	Online/live	1	11.6	100%	0.7	0.9	B/C		
+University of Illinois at Chicago	Live*	1	14.1	100%	7.2	-0.3	A/B	R	0.2
+Univision/University of Houston/Latino Decisions	Online/live	1	10.7	0%	0.7	0.9	B/C		
+Harvard University	Live*	1	6.8	0%	0.7	-0.4	A/B	D	0.1
+Schoen Consulting	Online/live	1	2.3	100%	-0.3	0.9	B/C	R	0.1
+Victoria Research & Consulting	Live/text	1	8	50%	1	0.9	B/C	D	0.1
+Sacred Heart University	Online/live	1	5.6	0%	0.9	0.9	B/C	R	0.3
+New Frontier Strategy	IVR	1	21.6	0%	4	1.4	C/D		
+University of Florida	Live	1	1.1	50%	-1	-0.4	A/B	D	0
+Harper Polling/Clarity Campaign Labs	IVR/live	1	7	0%	2.1	1	B/C	D	0.3
+Market Strategies International	Live*	1	1.1	100%	-5.4	-0.5	A/B	R	0
+GCR & Associates	IVR	1	18.3	100%	5.5	1.5	C/D		
+Beacon Research	Online/live	1	11.4	100%	2.4	1	B/C		
+Slingshot Strategies	IVR/online	1	9.3	100%	4.9	1.5	C/D	D	0.4
+Meredith College	Online/live	1	20.3	0%	3	1	B/C		
+Riggs Research Services	Live*	1	33.7	0%	25.9	1.1	B/C	D	0.9
+Craciun Research Group	Live	1	18.7	0%	17.5	1.1	B/C	D	0.7
+Victory Enterprises	IVR/live	1	17.3	0%	9.5	1.2	B/C	R	0.5
+RMG Research	IVR/online	1	4.3	100%	-5.1	1.2	B/C		
+Evan Falchuk and Lou DiNatale	IVR	1	11.3	0%	-2.9	1.2	B/C		
+CSP Polling	Online	1	2.6	100%	-2.7	1.2	F	D	0.1
+Strategy Research	IVR	1	8.7	0%	5.5	1.5	C/D	R	0.4
+Revily	IVR	1	0.5	100%	-2.8	1.2	B/C	R	0
+Crantford Research	Online	1	2.5	100%	-3.9	1.2	B/C	D	0.1
+Rivercity Polling	IVR	1	6.7	100%	-3.1	1.2	B/C	R	0.2
+AFL-CIO	IVR	1	3.8	100%	-1.5	1.3	B/C	R	0.1
+War Room Logistics	IVR	1	4.5	100%	-1.3	1.3	B/C		
+Diamond State Consulting Group	IVR	1	4.2	100%	-1.6	1.3	B/C	D	0.1
+Pasquines	Online	1	10.4	100%	-0.7	1.3	B/C		
+Florida Chamber of Commerce	Landline	1	1.2	100%	-2.6	1.3	B/C	D	0
+Singularis Group	IVR	1	0.8	100%	-2.6	1.3	B/C	R	0
+BIGresearch	Online	1	1.9	100%	-3.6	1.3	B/C	R	0
+Rossman Group	IVR	1	4.2	100%	0.2	1.3	C/D	D	0.1
+Triumph Campaigns	IVR	1	4.2	100%	0.9	1.3	C/D	R	0.2
+Liberty Opinion Research	IVR	1	5.7	100%	0.5	1.3	C/D		
+Iona College	IVR	1	4.4	100%	-1.1	1.3	C/D	D	0.1
+co/efficient	IVR/text	1	3.5	0%	0.4	1.3	C/D	D	0.2
+Park Street Strategies	Live	1	2.4	100%	-2.8	0.3	B/C		
+Mason Strategies	Live	1	1.9	100%	-4.8	0.3	B/C	D	0.1
+Targeted Persuasion	Live	1	0.9	100%	-6.4	0.4	B/C		
+University of Houston	Live	1	2	100%	-6.3	0.4	B/C		
+Mercyhurst University	Live	1	0.7	100%	-5.4	0.4	B/C	R	0
+TeleResearch Corporation	IVR	1	8.9	100%	2.2	1.4	C/D		
+Gotham Research Group	Live	1	5.8	100%	-2.8	0.4	B/C	R	0.2
